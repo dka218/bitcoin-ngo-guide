@@ -34,7 +34,6 @@ Hundreds of nonprofits and civil society groups around the world accept bitcoin 
 *   [WooCommerce](https://woocommerce.com/)
 *   [Bitrefill](https://www.bitrefill.com/)
 *   [Ledn](https://ledn.io/en/faq)
-*   [LocalBitcoins](https://localbitcoins.com/)
 *   [Buycoins](https://buycoins.africa/)
 *   [Sendcash](https://app.sendcash.africa/)
 *   [Paxful](https://paxful.com/)
@@ -148,7 +147,7 @@ In addition to grassroots activists, many nonprofits and foundations also utiliz
 
 *   Generally speaking, always take the more conservative approach when valuing digital assets and when taking notes for record-keeping. When in doubt, write transaction details down.
 *   Routinely consult with your legal counsel and accounting professionals.
-*   Research crypto-friendly banks and law firms, such as [Kraken Bank](https://www.kraken.com/bank), [Custodia Ban](https://custodiabank.com/), [Silvergate](https://www.silvergate.com/), [DLXLAW](https://dlxlaw.com/), [Hathaway & Kunz](https://www.hkwyolaw.com/attorney/matthew-d-kaufman/), [Crowley Fleck PLLP](https://crowleyfleck.com/biography/tara-b-nethercott/), and [Olsen Legal Group](https://www.olsenlegalgroup.com/our-team-jared-o.html), just to name a few.
+*   Research crypto-friendly banks and law firms, such as [Kraken Bank](https://www.kraken.com/bank), [Custodia Bank](https://custodiabank.com/), [Silvergate](https://www.silvergate.com/), [DLXLAW](https://dlxlaw.com/), [Hathaway & Kunz](https://www.hkwyolaw.com/attorney/matthew-d-kaufman/), [Crowley Fleck PLLP](https://crowleyfleck.com/biography/tara-b-nethercott/), and [Olsen Legal Group](https://www.olsenlegalgroup.com/our-team-jared-o.html), just to name a few.
 
 One added perk of using bitcoin as a nonprofit, according to the HRF strategy associate Alex Li, is that nonprofits do not have to pay income tax nor capital gains tax on donated bitcoin. This can be a huge cost-saver, compared to individual activists in the United States who must pay capital gains tax in relation to all their bitcoin transactions.
 
